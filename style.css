@@ -16,7 +16,7 @@ main {
 
 button {
 	min-width: 100%;
-	min-width: 100%;
+	min-height: 100%;
 	padding: 15px;
 	background-color: #E5F3FF;
 	color: #000000;
@@ -48,8 +48,14 @@ button:active{
     3px 3px 0 0 #3C6DCF,
     4px 4px 0 0 #3C6DCF,
     5px 5px 0 0 #3C6DCF;
-  background-color: #D3D4DB;
+  background-color: #C4C4C4;
   color: #3C6DCF;
+}
+
+a {
+	text-decoration: none;
+	background-color: #E5F3FF;
+	color: #000000;
 }
 
 
